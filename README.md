@@ -1,7 +1,6 @@
 # 🐍 Python-CodeDex: Codédex.io Challenge Solutions
 
-[![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
 > Here you can find my solutions to [Codédex.io](https://www.codedex.io/) Python programming challenges. This repository documents my learning journey through fundamental Python concepts.
 
