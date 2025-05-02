@@ -1,18 +1,27 @@
-# 🖥️ Codédex.io Challenges
+# 🐍 Python-CodeDex: Codédex.io Challenge Solutions
 
-**`Python (Beginner)`**
+[![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
- I have learned programming fundamentals such as variables, control flow, and loops. Here you are able to check all the solutions I found for Codédex's Python Challenges.
+> Here you can find my solutions to [Codédex.io](https://www.codedex.io/) Python programming challenges. This repository documents my learning journey through fundamental Python concepts.
 
- ---
+## 📌 About
 
-### Languages used
+This repository contains my solutions to Codédex.io's Python challenges, covering:
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+- Variables and data types
+- Control flow (conditionals, loops)
+- Functions and error handling
+- Basic data structures (lists, dictionaries)
+- Simple algorithms
+
+**Note:** These are my personal solutions - I recommend trying the challenges yourself first before checking these answers!
+
+## 🤝 Contributing
+
+While this is primarily my personal learning repository, I welcome:
+
+- Suggestions for more efficient solutions
+- Additional comments explaining the code
+- Better organization ideas
+- Please open an Issue or Pull Request with your suggestions
