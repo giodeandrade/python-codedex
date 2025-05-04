@@ -4,7 +4,7 @@
 
 > Here you can find my solutions to [Codédex.io](https://www.codedex.io/) Python programming challenges. This repository documents my learning journey through fundamental Python concepts.
 
-## 📌 About
+## About
 
 This repository contains my solutions to Codédex.io's Python challenges, covering:
 
@@ -16,7 +16,7 @@ This repository contains my solutions to Codédex.io's Python challenges, coveri
 
 **Note:** These are my personal solutions - I recommend trying the challenges yourself first before checking these answers!
 
-## 🤝 Contributing
+## Contributing
 
 While this is primarily my personal learning repository, I welcome:
 
