@@ -23,4 +23,4 @@ While this is primarily my personal learning repository, I welcome:
 - Suggestions for more efficient solutions
 - Additional comments explaining the code
 - Better organization ideas
-- Please open an Issue or Pull Request with your suggestions
+- Please open an issue or pull request with your suggestions
